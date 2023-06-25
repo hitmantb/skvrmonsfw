@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Skyrim VR Minimalistic Overhaul",
+    "description": "Modern, Gorgeous, NSFW",
+    "author": "hitmantb",
+    "maintainers": [
+      "github/hitmantb"
+    ],
+    "game": "skyrimvr",
+    "tags": [
+      "VR",
+      "ENB",
+      "4K Ultra Graphics",
+      "For High End Systems"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/hitmantb/skvrmonsfw/main/logo.webp",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/83995",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul%20-%20NSFW.wabbajack_c83c065c-77ac-4219-ae9a-0bdbedb2e6c6",
+      "machineURL": "skvrmo",
+      "discordURL": "https://discord.gg/RwZvZG6qf3"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ZLuLorO0I8U=",
+      "Size": 833803528,
+      "NumberOfArchives": 615,
+      "SizeOfArchives": 129681933385,
+      "NumberOfInstalledFiles": 135684,
+      "SizeOfInstalledFiles": 182396029451
+    },
+    "version": "1.80"
+  }
+]
