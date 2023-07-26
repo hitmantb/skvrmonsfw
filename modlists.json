@@ -3,7 +3,7 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Skyrim VR Minimalistic Overhaul",
     "description": "Modern, Gorgeous, NSFW",
-    "author": "hitmantb",
+    "author": "AAA PCVR",
     "maintainers": [
       "github/hitmantb"
     ],
@@ -27,13 +27,13 @@
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "JpaFfhJVIq0=",
-      "Size": 1192587049,
-      "NumberOfArchives": 618,
-      "SizeOfArchives": 129682028158,
-      "NumberOfInstalledFiles": 141963,
-      "SizeOfInstalledFiles": 185512288163
+	    "Hash": "uM6iN7hBq0I=",
+	    "Size": 1137522958,
+	    "NumberOfArchives": 622,
+	    "SizeOfArchives": 123364404275,
+	    "NumberOfInstalledFiles": 138480,
+	    "SizeOfInstalledFiles": 172933154590
     },
-    "version": "1.80"
+    "version": "1.85"
   }
 ]
