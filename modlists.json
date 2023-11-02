@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/hitmantb/skvrmonsfw/main/logo.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/86817",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul%20-%20NSFW.wabbajack_291e0850-b0f4-460f-98b6-3cd17f497f40",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20VR%20Minimalistic%20Overhaul%20-%20NSFW.wabbajack_d54da14a-d038-432a-9f65-d2740f2ce5b5",
       "machineURL": "skvrmonsfw",
       "discordURL": "https://discord.gg/RwZvZG6qf3"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "R4qsqcIzal4=",
-      "Size": 1363677739,
-      "NumberOfArchives": 708,
-      "SizeOfArchives": 87410641117,
-      "NumberOfInstalledFiles": 170979,
-      "SizeOfInstalledFiles": 133291056192
+      "Hash": "mYBKiU0KiFg=",
+      "Size": 1367127452,
+      "NumberOfArchives": 710,
+      "SizeOfArchives": 87891743757,
+      "NumberOfInstalledFiles": 171342,
+      "SizeOfInstalledFiles": 133680259411
     },
     "version": "2.35"
   }
